@@ -1,0 +1,3 @@
+{
+	"include": ["./node_modules/rxjs", "examples/**/*.js", "examples/2_rxjs_operators.ts", "examples/0_anatomy.ts", "examples/1_observables_vs_promises.ts", "examples/3_higher_order_observables.ts"]
+}

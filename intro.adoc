@@ -1,0 +1,16 @@
+
+[cols="1,1,1"]
+|===
+|
+|SINGLE
+|MULTIPLE
+
+|PULL
+|Function
+|Iterator
+
+|PUSH
+|Promise
+|Observable
+
+|===
